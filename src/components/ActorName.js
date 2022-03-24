@@ -21,7 +21,7 @@ export default function ActorName() {
   }
 
   const getMovieData = async () => {
-    const MovieDetails = await getMovie(slug)
+    const MovieDetails = await getMovie(fultNavn)
     setMovieData(MovieDetails)
   }
 

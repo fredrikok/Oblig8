@@ -1,3 +1,5 @@
+//Samarbeid med Liv Ingrid Andersen, Fredrik Kapoun Olsen og Yvonne Nielsen
+
 import {Route, Routes} from 'react-router-dom'
 import Actor from './components/Actor'
 import ActorName from './components/ActorName'
