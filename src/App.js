@@ -1,4 +1,4 @@
-//Samarbeid med Liv Ingrid Andersen, Fredrik Kapoun Olsen og Yvonne Nielsen
+//Samarbeid med Liv Ingrid Andersen, Fredrik Kapoun Olsen og Yvonne Nielsen THE KINGS AND QUEENS.
 
 import {Route, Routes} from 'react-router-dom'
 import Actor from './components/Actor'
